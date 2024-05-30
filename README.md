@@ -1,1 +1,1 @@
-nejde mi to pripojit na github takze budu posilat verze ok
+nejde mi VB pripojit na github takze budu posilat verze ok
