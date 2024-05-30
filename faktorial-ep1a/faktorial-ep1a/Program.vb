@@ -8,13 +8,19 @@ Module Program
         Dim ano As Boolean = False
 
         While Not ano
-            Console.Write(" Zadej číslo: ")
+            Console.Write("Zadej číslo (0 až 10): ")
             input = Console.ReadLine()
 
             If Integer.TryParse(input, cislo) Then
-                ano = True
+                If cislo >= 0 And cislo <= 10 Then
+                    ano = True
+                ElseIf cislo < 0 Then
+                    Console.WriteLine("Záporné hodnoty NEJSOU povoleny!!!! Zadejte prosím číslo mezi 0 a 10.")
+                Else
+                    Console.WriteLine("Číslo je příliš vysoké. Zadejte prosím číslo mezi 0 a 10.")
+                End If
             Else
-                Console.WriteLine(" Neplatnej vstup. Zadejte prosím celé číslo. ")
+                Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo.")
             End If
         End While
 
