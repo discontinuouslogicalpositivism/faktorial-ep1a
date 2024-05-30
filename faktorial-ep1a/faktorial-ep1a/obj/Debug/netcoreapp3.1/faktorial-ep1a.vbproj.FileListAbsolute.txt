@@ -1,0 +1,13 @@
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.exe
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.deps.json
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.runtimeconfig.json
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.runtimeconfig.dev.json
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.dll
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\bin\Debug\netcoreapp3.1\faktorial-ep1a.pdb
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.vbprojAssemblyReference.cache
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.AssemblyInfoInputs.cache
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.AssemblyInfo.vb
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.vbproj.CoreCompileInputs.cache
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.dll
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.pdb
+C:\Users\lepka.stepan\source\repos\faktorial-ep1a\faktorial-ep1a\obj\Debug\netcoreapp3.1\faktorial-ep1a.genruntimeconfig.cache
